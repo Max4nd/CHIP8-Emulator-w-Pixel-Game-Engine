@@ -8,6 +8,10 @@ All ROMS seem to be working, except the second test ROM for some reason.
 
 References:
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+
 https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
+
 https://austinmorlan.com/posts/chip8_emulator/
+
 https://codereview.stackexchange.com/questions/226029/chip8-emulator-in-c
+
